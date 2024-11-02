@@ -1,0 +1,6 @@
+@HousingMarketApi_HostAddress = http://localhost:5290
+
+GET {{HousingMarketApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
